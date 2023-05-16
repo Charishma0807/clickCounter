@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+  width: auto;
+}
+
+.num {
+  color: #c20a72;
+}
+
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.description {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.click-button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: 0px;
+  height: 25px;
+  cursor: pointer;
+  outline: none;
+}
